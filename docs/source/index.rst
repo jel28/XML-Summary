@@ -23,15 +23,6 @@ To collaboratively synthesize and articulate the key concepts, skills, and appli
 ▫️ Use precise and accurate language relevant to IT.
 ▫️ Provide examples or illustrations to clarify complex concepts.
 
-💻 ***Practical Applications***
-▫️Discuss real-world applications of the learned concepts in the IT field.
-▫️Include examples of how these concepts are used in software development, networking, database management, cybersecurity, etc.
-▫️If applicable, include potential future applications.
-
-💻***Critical Analysis***
-▫️Evaluate the strengths and weaknesses of the presented information.
-▫️Identify any limitations or assumptions made in the chapter or topic.
-▫️If applicable, discuss alternative approaches or technologies.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
